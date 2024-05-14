@@ -1,0 +1,23 @@
+body {
+    background-image: url("/static/imgs/back.avif")
+}
+.card {
+    text-align: left;
+    height: 500px;
+    width: 100%;
+    font-family: Verdana;
+    background-color: rgb(3, 3, 70);
+    left: 500px;
+    padding: 50px;
+}
+.mb-3 {
+    font-family: Verdana;
+    font-size: large;
+}
+.mb-4 {
+    font-family: Verdana;
+    font-size: large;
+}
+h2 {
+    color: white;
+}

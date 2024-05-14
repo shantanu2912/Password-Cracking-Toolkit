@@ -1,0 +1,14 @@
+body {
+    background-color: lightgrey;
+}
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+header {
+    background-color: lightcoral;
+}
+input {
+    background-color: lightblue;
+}

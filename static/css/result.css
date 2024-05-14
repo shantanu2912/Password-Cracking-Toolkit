@@ -1,0 +1,14 @@
+.col.d-flex.flex-column.align-items-start.gap-2, .list-group {
+    width: 50%;
+    height: 100%;
+}
+.list-group {
+    margin-top: 20px;
+}
+.table-responsive, .diagrams {
+    width: 100%;
+    height: 100%;
+}
+.diagrams {
+    margin-top: 20px;
+}
